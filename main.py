@@ -78,7 +78,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ViSHaNu InSiDe❤️</title>
+  <title>𝑭𝑨𝑰𝒁𝑼 𝑷𝑨𝑰𝑹❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -111,9 +111,9 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     MADE BY  VISHANU ❤
+                                     MADE BY  𝑭𝑨𝑰𝒁𝑼 𝑿𝑫 ❤
     𝐕𝐈𝐒𝐇𝐖𝐀𝐉𝐄𝐄𝐓 𝐈𝐍𝐒𝐈𝐃𝐄  >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» VISHANU ON FIRE 😈  </h1>
+    <h1 class="mt-3">𝑻𝑯𝑬 𝑭𝑨𝑰𝒁𝑰😈  </h1>
   </header>
 
   <div class="container">
@@ -153,7 +153,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by ViShaNu BoY 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by 𝑭𝑨𝑰𝒁𝑼 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <
   </footer>
